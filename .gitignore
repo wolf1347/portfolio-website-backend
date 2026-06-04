@@ -93,3 +93,4 @@ publish/
 
 # Entity Framework
 *.db
+.editorconfig
